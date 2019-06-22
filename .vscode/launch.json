@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "backend.Main",
+            "projectName": "EncryptionChat_3b9c3be8"
+        }
+    ]
+}
