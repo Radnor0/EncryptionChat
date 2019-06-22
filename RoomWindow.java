@@ -40,4 +40,8 @@ public class RoomWindow extends JFrame {
         setLocationRelativeTo(null);
         setVisible(true);
     }
+
+    public void addMessage(String text) {
+        chat.setText(chat.getText() + text);
+    }
 }
